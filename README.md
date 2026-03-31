@@ -2,32 +2,32 @@
 
 <br/>
 
-```
+<pre>
 ██╗  ██╗ ██████╗ ███████╗██╗  ██╗██╗    ███╗   ███╗███████╗██████╗ ██╗ █████╗
 ██║  ██║██╔═══██╗██╔════╝██║ ██╔╝██║    ████╗ ████║██╔════╝██╔══██╗██║██╔══██╗
 ███████║██║   ██║███████╗█████╔╝ ██║    ██╔████╔██║█████╗  ██║  ██║██║███████║
 ██╔══██║██║   ██║╚════██║██╔═██╗ ██║    ██║╚██╔╝██║██╔══╝  ██║  ██║██║██╔══██║
 ██║  ██║╚██████╔╝███████║██║  ██╗██║    ██║ ╚═╝ ██║███████╗██████╔╝██║██║  ██║
 ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝    ╚═╝     ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═╝
-```
+</pre>
 
 ### *Where Creative Vision Meets Performance Science*
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌍_Website-hoski.ca-000000?style=for-the-badge&logoColor=white)](https://hoski.ca)
+[![Website](https://img.shields.io/badge/🌍_Website-hoski.ca-000000?style=for-the-badge)](https://hoski.ca)
 [![Trustpilot](https://img.shields.io/badge/⭐_Trustpilot-4.7%2F5-00b67a?style=for-the-badge)](https://www.trustpilot.com/review/hoski.ca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Portfolio-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com)
-[![Behance](https://img.shields.io/badge/Behance-Showcase-1769FF?style=for-the-badge&logo=behance)](https://behance.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Portfolio-E4405F?style=for-the-badge)](https://instagram.com)
+[![Behance](https://img.shields.io/badge/Behance-Showcase-1769FF?style=for-the-badge)](https://behance.net)
 
 <br/>
 
-> **300+ brands scaled. 8x ROAS achieved. $18M+ in tracked revenue generated.**
-> 
-> *We don't just run ads — we build the entire machine.*
+<b>300+ brands scaled. 8x ROAS achieved. $18M+ in tracked revenue generated.</b>
 
 <br/>
+
+<i>We don't just run ads — we build the entire machine.</i>
 
 </div>
 
