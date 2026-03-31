@@ -43,19 +43,58 @@ Our origin is personal. Hoski was founded with a single mission: to help modern 
 
 ## 🏆 Results That Speak
 
-<div align="center">
+Numbers don't lie. Here's what happens when creative performance meets full-system ownership:
+
+### 📊 Agency-Wide Performance
 
 | Metric | Result |
 |--------|--------|
-| 🔷 Brands Scaled | **300+** |
-| 📈 Best ROAS Achieved | **8x** (Alev Jewellery) |
-| 💰 Revenue Surge (Single Client) | **8x in 9 months** (Global Diamond Montreal) |
-| 📺 TV Sales Generated | **$18M+** (Dorome) |
-| 🦷 Healthcare Pipeline Created | **0 → 6-figure/month** (Voit Dental) |
-| 💻 Sessions Driven (90-Day Sprint) | **191,400** with **$558K revenue** |
-| ⭐ Trustpilot Score | **4.7 / 5.0** |
+| 🔷 Total Brands Scaled | **300+** |
+| 📈 Peak ROAS Achieved | **8x** |
+| 💰 Highest Revenue Surge | **8x in 9 months** |
+| 📺 TV Sales Tracked | **$18M+** |
+| ⭐ Trustpilot Score | **4.7 / 5.0** (100% five-star reviews) |
+| 🌍 Active Markets | Canada · USA · North America · Europe |
+| 🏭 Industries Served | Luxury · Healthcare · E-Commerce · Retail · SaaS |
 
-</div>
+---
+
+### 🔍 Client Case Studies
+
+**💎 Global Diamond Montreal — Luxury Jewelry**
+- Hoski owned the entire system: branding → paid media → funnel
+- **Result:** 8x revenue surge over 9 months · **40% revenue increase** by end of 2025
+- Strategy: Full-funnel takeover with video-led Meta campaigns
+
+**💍 Alev Jewellery — E-Commerce Jewelry**
+- Transitioned ad accounts from external management to Hoski control
+- **Result:** ROAS scaled from **3x → 8x**
+- Strategy: Creative refresh + audience retargeting overhaul
+
+**🦷 Voit Dental — Healthcare / Dental Implants**
+- Built a specialized high-ticket funnel from scratch for dental implants
+- **Result:** **0 → 5 implant patients/month** · Six-figure monthly implant revenue unlocked
+- Strategy: Educational video content + aggressive automated follow-up sequences
+
+**🦷 Les Dentistes — Healthcare**
+- Launched a highly targeted local engagement campaign
+- **Result:** **154% engagement rate** · 33 qualified leads at **$60/conversion**
+- Strategy: Geo-targeted Meta ads with conversion-optimized landing pages
+
+**🏢 Club Exec — Professional Services**
+- Implemented a high-converting launch framework for a new service offering
+- **Result:** **$42,000 revenue in month one** at a **6.4% conversion rate**
+- Strategy: Rapid 30-day launch sprint with direct-response copywriting
+
+**📺 Dorome — Retail / Television**
+- Sustained cross-channel creative optimization over multiple quarters
+- **Result:** **$18M in TV sales** tracked across campaigns
+- Strategy: DRTV production + multi-platform media buying
+
+**🛒 Alex — E-Commerce (90-Day Sprint)**
+- Concentrated performance campaign with aggressive creative testing
+- **Result:** **191,400 sessions** and **$558,000 in revenue** in 90 days
+- Strategy: UGC Accelerator content + high-frequency Meta ad rotation
 
 ---
 
@@ -166,7 +205,7 @@ We take on a **select number of clients** who are serious about scaling. Here's 
 - ✅ Willingness to let us own the **entire marketing system**
 - ✅ A brand ready to move from **5-figures → 6-figures → 7-figures**
 
-**[→ Book a Strategy Call](https://hoski.ca/performace)**
+**[→ Book a Strategy Call](https://hoski.ca/schedule)**
 
 ---
 
